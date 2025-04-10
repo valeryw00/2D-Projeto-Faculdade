@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - chao
+  - fundo
+  - mato
+  - fundo1
+  - Personagem
+  - Chao
+  - Chao2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: fundo
+    uniqueID: 1137036625
+    locked: 0
+  - name: chao
+    uniqueID: 3061491473
+    locked: 0
+  - name: mato
+    uniqueID: 2031183935
+    locked: 0
+  - name: foreground
+    uniqueID: 2736832511
+    locked: 0
+  - name: foreground2
+    uniqueID: 2029895069
+    locked: 0
+  - name: props
+    uniqueID: 329785227
+    locked: 0
+  - name: fundo1
+    uniqueID: 2170702991
+    locked: 0
+  - name: Chao
+    uniqueID: 3385309647
+    locked: 0
+  - name: Personagem
+    uniqueID: 4188705631
+    locked: 0
+  - name: Chao2
+    uniqueID: 2755271503
+    locked: 0
